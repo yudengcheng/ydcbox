@@ -1,8 +1,9 @@
 // 以下全部出自网络和大佬资源，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法用途]
 // 本人无公众号、无盈利、无引流、免费分享给小白使用，请勿轻信他人，谨防上当受骗。
+// https://raw.githubusercontent.com/yudengcheng/ydcbox/main/ydc.json
 
 {
-  "spider": "https://gitee.com/yu1992dc/ydcbox/raw/master/Yoursmile.jar;md5;3E5DBA13AF69408A0EDFC85243BE03C4",
+  "spider": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/Yoursmile.jar;md5;3E5DBA13AF69408A0EDFC85243BE03C4",
   "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
   "sites": [
@@ -424,12 +425,12 @@
       "key": "dr_荐片",
       "name": "🧲荐片",
       "type": 3,
-      "api": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/lib/drpy2.min.js",
       "playerType": "1",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/荐片.js"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/荐片.js"
     },
     {
       "key": "农民",
@@ -439,7 +440,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/sub/农民影视.json"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/sub/农民影视.json"
     },
     {
       "key": "骚火",
@@ -471,7 +472,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/sub/奇优.json"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/sub/奇优.json"
     },
     {
       "key": "云播",
@@ -536,62 +537,62 @@
       "key": "drpy_js_短剧网",
       "name": "🗽短剧网",
       "type": 3,
-      "api": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/短剧网.js"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/短剧网.js"
     },
     {
       "key": "drpy_js_虎牙直播",
       "name": "🐯虎牙直播",
       "type": 3,
-      "api": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/虎牙直播.js"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/虎牙直播.js"
     },
     {
       "key": "drpy_js_斗鱼直播",
       "name": "🐠斗鱼直播",
       "type": 3,
-      "api": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/斗鱼直播.js"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/斗鱼直播.js"
     },
     {
       "key": "drpy_js_有声小说吧",
       "name": "有声小说吧",
       "type": 3,
-      "api": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/lib/drpy2.min.js",
       "playerType": "2",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/有声小说吧.js"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/有声小说吧.js"
     },
     {
       "key": "drpy_js_88看球",
       "name": "88看球",
       "type": 3,
-      "api": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/lib/drpy2.min.js",
+      "api": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/lib/drpy2.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/88看球.js"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/88看球.js"
     },
     {
       "key": "drpy_js_JRKAN直播",
       "name": "JRKAN直播",
       "type": 3,
-      "api": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/lib/drpy.min.js",
+      "api": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/lib/drpy.min.js",
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/js/JRKAN直播.js"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/js/JRKAN直播.js"
     },
     {
       "key": "短视频",
@@ -653,7 +654,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/sub/Bili.json"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/sub/Bili.json"
     },
     {
       "key": "相声小品",
@@ -663,7 +664,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/sub/Blixs.json"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/sub/Blixs.json"
     },
     {
       "key": "戏曲",
@@ -673,7 +674,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/sub/Blixq.json"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/sub/Blixq.json"
     },
     {
       "key": "少儿",
@@ -683,7 +684,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/sub/少儿教育.json"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/sub/少儿教育.json"
     },
     {
       "key": "小学",
@@ -693,7 +694,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/sub/小学课堂.json"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/sub/小学课堂.json"
     },
     {
       "key": "初中",
@@ -703,7 +704,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/sub/初中课堂.json"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/sub/初中课堂.json"
     },
     {
       "key": "高中",
@@ -713,7 +714,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitee.com/yu1992dc/ydcbox/raw/master/sub/高中课堂.json"
+      "ext": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/sub/高中课堂.json"
     }
   ],
   "parses": [
@@ -865,7 +866,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitee.com/yu1992dc/ydcbox/raw/master/live.txt",
+      "url": "https://raw.githubusercontent.com/yudengcheng/ydcbox/main/live.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://diyp.112114.xyz/?ch={name}&date={date}",
